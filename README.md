@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ku Ku Zan</h1>
 <h3 align="center">A passionate iOS developer from Myanmar</h3>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="290" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/KuKu280/KuKu280/main/020.png?raw=true" width="450" height="290" />
 
 - 🔭 I’m currently working on **client project**
 
